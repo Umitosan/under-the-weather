@@ -1,0 +1,21 @@
+$neonGreen : #33ffcc;
+$hotPink : #ff80ff;
+$blueish : #bbcde1;
+
+.container {
+  background-color: $blueish;
+  .showHumidity {
+    background-color: $neonGreen;
+  }
+  .showTemp {
+    background-color: $blueish;
+  }
+}
+
+.container {
+  background: green;
+}
+
+body{
+  background-color: yellow;
+}
